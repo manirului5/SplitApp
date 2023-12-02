@@ -1,0 +1,82 @@
+{
+   "Bengali":[
+               {
+                 "id"   :"ANTHEEN",
+                 "src"  :"Slides/bengali/ANTHEEN.jpg",
+                 "src_1":"Musics/posters/bengali/antheen.jpg"
+               },
+               {
+                 "id":"HWBDOL",
+                 "src":"Slides/bengali/HWBDOL.jpg",
+                 "src_1":"Musics/posters/bengali/hawabodol.jpg"
+               },
+               {
+                 "id":"JDHBE",
+                 "src":"Slides/bengali/JDHBE.jpg",
+                 "src_1":"Musics/posters/bengali/janidekha.jpg"
+               },
+               { "id":"LORAI",
+                 "src":"Slides/bengali/LORAI.jpg",
+                 "src_1":"Musics/posters/bengali/lorai.jpg"
+               },
+               {
+                 "id":"RMILANTI",
+                 "src":"Slides/bengali/RMILANTI.jpg",
+                 "src_1":"Musics/posters/bengali/rongmilanti.jpg"
+               }
+             ],
+   "Hindi":  [
+               {
+                 "id":"TMSHA",
+                 "src":"Slides/hindi/TMSHA.jpg",
+                 "src_1":"Musics/posters/hindi/tamasha.jpg"
+               },
+               {
+                 "id"   :"TWMR",
+                 "src"  :"Slides/hindi/TWMR.jpg",
+                 "src_1":"Musics/posters/hindi/twmr.jpg"
+               },
+               {
+                 "id":"STK",
+                 "src":"Slides/hindi/STK.jpg",
+                 "src_1":"Musics/posters/hindi/stk.jpg"
+               },
+               {
+                 "id":"SNMRE",
+                 "src":"Slides/hindi/SNMRE.jpg",
+                 "src_1":"Musics/posters/hindi/sanamre.jpg"
+               },
+               {
+                 "id":"MRYNR",
+                 "src":"Slides/hindi/MRYNR.jpg",
+                 "src_1":"Musics/posters/hindi/mayrahoo.jpg"
+               },
+               {
+                 "id":"Dilwale",
+                 "src":"Slides/hindi/Dilwale.jpg",
+                 "src_1":"Musics/posters/hindi/dilwale.jpg"
+               },
+               {
+                 "id":"BBhaijan",
+                 "src":"Slides/hindi/BBhaijan.jpg",
+                 "src_1":"Musics/posters/hindi/bbhaijan.jpg"
+               }
+             ],
+   "English":[
+               { 
+                 "id":"ENRQ",
+                 "src":"Slides/english/ENRQ.jpg",
+                 "src_1":"Musics/posters/english/enriq.jpg"
+               },
+               {
+                 "id":"SHAKIRA",
+                 "src":"Slides/english/GYPSE.gif",
+                  "src_1":"Musics/posters/english/shakira.gif"
+               },
+               {
+                 "id":"PITBULL",
+                 "src":"Slides/english/ROVRME.jpg",
+                  "src_1":"Musics/posters/english/pitbull.jpg"
+               }
+             ]
+}

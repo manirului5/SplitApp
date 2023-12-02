@@ -1,0 +1,13 @@
+{
+   "2016_Mar":[
+                 { "item"  :"Rent",           "mani"  :"2600", "abhi" :"2600", "manas"  :"2300", "tot"   :"7500"     },
+                 { "item"  :"Cooking",        "mani"  :"550",  "abhi" :"550",  "manas"  :"500",  "tot"   :"1600"     },
+                 { "item"  :"Net",            "mani"  :"229",  "abhi" :"229",  "manas"  :"229",  "tot"   :"687"      },
+                 { "item"  :"Gas",            "mani"  :"0",    "abhi" :"0",    "manas"  :"0",    "tot"   :"0"         },
+                 { "item"  :"Electricity",    "mani"  :"320",  "abhi" :"320",  "manas"  :"320",  "tot"   :"960"      },   
+                 { "item"  :"Marketting",     "mani"  :"1079", "abhi" :"1079", "manas"  :"610",  "tot"   :"2767"     },   
+                 { "item"  :"Total Expense",  "mani"  :"4778", "abhi" :"4778", "manas"  :"3959", "tot"   :"13514"    },
+                 { "item"  :"Paid",           "mani"  :"2717", "abhi" :"980",  "manas"  :"1357", "tot"   :"5054"     },
+                 { "item"  :"Dues",           "mani"  :"2061", "abhi" :"3798", "manas"  :"2602", "tot"   :"8460"     }
+              ]
+}

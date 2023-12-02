@@ -1,0 +1,24 @@
+{
+   "videos":[
+               {
+                  "id"   :"IKTARA",
+                  "src"  :"Videos/Images/iktara.jpg",
+                  "vlink":"Videos/files/Iktara.mp4"
+               },
+               {
+                  "id":"MRYNR1",
+                  "src":"Videos/Images/mayrahoo.jpg",
+                  "vlink":"Videos/files/MayRahoo.mp4"
+               },
+               {
+                  "id":"EKMULAKAT",
+                  "src":"Videos/Images/ekmulakat.jpg",
+                  "vlink":"Videos/files/Ekmulakat.mp4"
+               },
+               {
+                  "id":"KWHAWA",
+                  "src":"Videos/Images/kyonhawa.jpg",
+                  "vlink":"Videos/files/KyonHawa.mp4"
+               }
+            ]
+}

@@ -1,0 +1,9 @@
+{
+   "MasterItems":[
+                   {"item":"Pictures"},
+                   {"item":"Musics"},
+                   {"item":"Videos"},
+                   {"item":"Miscellaneous"}
+                 ]
+}
+

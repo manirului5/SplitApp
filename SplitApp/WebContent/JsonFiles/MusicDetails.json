@@ -1,0 +1,733 @@
+{
+     "HINDI MUSIC ALBUMS":"This is the Portion for Hindi Music Albums",
+     
+     "TWMR":[
+                {
+                  "index"  :"1", 
+                  "name"   :"01 - TWMR - Ho Gaya Hai Pyar [DJMaza.Info]",
+                  "url"    :"Musics/Hindi/TWMR/HGHPT.mp3",
+                  "artist" :"Dev Negi",
+                  "gener"  :"Bollywood Music",
+                  "album"  :"Tanu Weds Manu Returns",
+                  "length" :"00:03:48",
+                  "size"   :"4.58MB",
+                  "year"   :"2015"
+                },
+                { 
+                  "index"  :"2",
+                  "name"   :"02 - TWMR - O Sathi Mere [DJMaza.Info]",
+                  "url"    :"Musics/Hindi/TWMR/OSTMRE.mp3",
+                  "artist" :"Sonu Nigam",
+                  "gener"  :"Bollywood Music",
+                  "album"  :"Tanu Weds Manu Returns",
+                  "length" :"00:05:46",
+                  "size"   :"6.74MB",
+                  "year"   :"2015"
+                },
+                { 
+                  "index"  :"3",
+                  "name"   :"03 - TWMR - Old School Girl [DJMaza.Info]",
+                  "url"    :"Musics/Hindi/TWMR/OldSchool.mp3",
+                  "artist" :"Anmol Malik",
+                  "gener"  :"Bollywood Music",
+                  "album"  :"Tanu Weds Manu Returns",
+                  "length" :"00:03:39",
+                  "size"   :"4.09MB",
+                  "year"   :"2015"
+                },
+                { 
+                  "index"  :"4",
+                  "name"   :"04 - TWMR - Mat Ja Re [DJMaza.Info]",
+                  "url"    :"Musics/Hindi/TWMR/MatJaRe.mp3",
+                  "artist" :"Ankit Tiwari",
+                  "gener"  :"Bollywood Music",
+                  "album"  :"Tanu Weds Manu Returns",
+                  "length" :"00:03:52",
+                  "size"   :"4.64MB",
+                  "year"   :"2015"
+                }
+            ],
+   
+      "STK":[
+                {
+                 "index":"1",
+                 "name":"01 - STK - Sanam Teri Kasam [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamTeriKasam/SanamTeriKasam.mp3",
+                 "artist" :"Ankit Tiwari & Palak Muchhal",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Teri Kasam (2016)",
+                 "length" :"00:05:14",
+                 "size"   :"6.29MB",
+                 "year"   :"2016"
+                },
+                 {
+                 "index":"2",
+                 "name":"02 - STK - Kheech Meri Photo [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamTeriKasam/KheechMeriPhoto.mp3",
+                 "artist" :"Neeti Mohan, Akasa Singh & Darshan Raval",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Teri Kasam (2016)",
+                 "length" :"00:04:44",
+                 "size"   :"6.02MB",
+                 "year"   :"2016"
+                },
+                {
+                 "index":"3",
+                 "name":"03 - STK - Bewajah [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamTeriKasam/Bewajah.mp3",
+                 "artist" :"Himesh Reshammiya",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Teri Kasam (2016)",
+                 "length" :"00:05:08",
+                 "size"   :"6.24MB",
+                 "year"   :"2016"
+                },
+                {
+                 "index":"4",
+                 "name":"04 - STK - Tera Chehra [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamTeriKasam/TeraChehra.mp3",
+                 "artist" :"Arijit Singh",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Teri Kasam (2016)",
+                 "length" :"00:04:34",
+                 "size"   :"5.50MB",
+                 "year"   :"2016"
+                },
+                {
+                 "index":"5",
+                 "name":"05 - STK - Haal - E - Dil (Male) [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamTeriKasam/Tujomila.mp3",
+                 "artist" :"Sreerama Chandra",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Teri Kasam (2016)",
+                 "length" :"00:05:34",
+                 "size"   :"6.46MB",
+                 "year"   :"2016"
+                },
+                {
+                 "index":"6",
+                 "name":"07 - STK - Ek Number [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamTeriKasam/HaaleDil.mp3",
+                 "artist" :"Himesh Reshammiya & Neeti Mohan",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Teri Kasam (2016)",
+                 "length" :"00:04:20",
+                 "size"   :"5.25MB",
+                 "year"   :"2016"
+                },
+                {
+                 "index":"7",
+                 "name":"08 - STK - Main Teri Yaadon Mein [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamTeriKasam/MainTeriYaadonMein.mp3",
+                 "artist" :"Arijit Singh",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Teri Kasam (2016)",
+                 "length" :"00:04:16",
+                 "size"   :"5.24MB",
+                 "year"   :"2016"
+                } 
+              ],
+    
+      "MRYNR":[
+                {
+                 "index":"1",
+                 "name":"01 - Main Rahoon Ya Na Rahoon",
+                 "url":"Musics/Hindi/MayRahoonYaNaRahoon/MayRahoonYaNaRahoon.mp3",
+                 "artist" :"Amaal Mallik, Armaan Malik",
+                 "gener"  :"Bollywood Music",
+                 "album"  :" Main Rahoon Ya Na Rahoon(2016)",
+                 "length" :"00:06:46",
+                 "size"   :"6.20MB",
+                 "year"   :"2016"
+                } 
+              ],
+            
+      "TMSHA":[
+                {
+                 "index":"1",
+                 "name":"01 - Tamasha - Matargashti [DJMaza.Info]",
+                 "url":"Musics/Hindi/Tamasha/Matargashti.mp3",
+                 "artist" :"Mohit Chauhan",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Tamasha (2015)",
+                 "length" :"00:05:28",
+                 "size"   :"6.66MB",
+                 "year"   :"2015"  
+                },
+                {
+                 "index":"2",
+                 "name":"02 - Tamasha - Heer Toh Badi Sad Hai [DJMaza.Info]",
+                 "url":"Musics/Hindi/Tamasha/HeerTohBadiSadHai.mp3",
+                 "artist" :"Mika Singh & Nakash Aziz",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Tamasha (2015)",
+                 "length" :"00:05:26",
+                 "size"   :"6.67MB",
+                 "year"   :"2015"  
+                },
+                {
+                 "index":"3",
+                 "name":"03 - Tamasha - Tum Saath Ho [DJMaza.Info]",
+                 "url":"Musics/Hindi/Tamasha/TumSaathHo.mp3",
+                 "artist" :"Alka Yagnik & Arijit Singh",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Tamasha (2015)",
+                 "length" :"00:05:41",
+                 "size"   :"6.51MB",
+                 "year"   :"2015"  
+                },
+                {
+                 "index":"4",
+                 "name":"04 - Tamasha - Wat Wat Wat [DJMaza.Info]",
+                 "url":"Musics/Hindi/Tamasha/WatWatWat.mp3",
+                 "artist" :"Arijit Singh & Sashwat Singh",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Tamasha (2015)",
+                 "length" :"00:04:58",
+                 "size"   :"6.14MB",
+                 "year"   :"2015"  
+                },
+                {
+                 "index":"5",
+                 "name":"05 - Tamasha - Chali Kahani [DJMaza.Info]",
+                 "url":"Musics/Hindi/Tamasha/ChaliKahani.mp3",
+                 "artist" :"Sukhwinder Singh, Haricharan & Haripriya",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Tamasha (2015)",
+                 "length" :"00:05:19",
+                 "size"   :"6.02MB",
+                 "year"   :"2015"  
+                },
+                {
+                 "index":"6",
+                 "name":"06 - Tamasha - Safarnama [DJMaza.Info]",
+                 "url":"Musics/Hindi/Tamasha/Safarnama.mp3",
+                 "artist" :"Lucky Ali",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Tamasha (2015)",
+                 "length" :"00:04:11",
+                 "size"   :"5.09MB",
+                 "year"   :"2015"  
+                },
+                {
+                 "index":"7",
+                 "name":"07 - Tamasha - Tu Koi Aur Hai [DJMaza.Info]",
+                 "url":"Musics/Hindi/Tamasha/TuKoiAurHai.mp3",
+                 "artist" :"A. R. Rahman, Alma Ferovic & Arjun Chandy",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Tamasha (2015)",
+                 "length" :"00:07:20",
+                 "size"   :"8.60MB",
+                 "year"   :"2015"  
+                }
+              ],
+            
+      "SNMRE":[
+                {
+                 "index":"1",
+                 "name":"01 - Sanam Re - Sanam Re [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamRe/SanamRe.mp3",
+                 "artist" :"Mithoon & Arijit Singh",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Re (2016)",
+                 "length" :"00:05:08",
+                 "size"   :"6.71MB",
+                 "year"   :"2016"  
+                },
+                {
+                 "index":"2",
+                 "name":"02 - Sanam Re - Gazab Ka Hain Yeh Din [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamRe/GazabKaHainYehDin.mp3",
+                 "artist" :"Arijit Singh & Amaal Mallik",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Re (2016)",
+                 "length" :"00:05:25",
+                 "size"   :"6.91MB",
+                 "year"   :"2016"  
+                },
+                {
+                 "index":"3",
+                 "name":"03 - Sanam Re - Hua Hain Aaj Pehli Baar [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamRe/HuaHainAajPehliBaar.mp3",
+                 "artist" :"Armaan Malik, Palak Muchhal & Amaal Mallik",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Re (2016)",
+                 "length" :"00:05:09",
+                 "size"   :"6.50MB",
+                 "year"   :"2016"  
+                },
+                {
+                 "index":"4",
+                 "name":"04 - Sanam Re - Humne Pee Rakhi Hai [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamRe/HumnePeeRakhi.mp3",
+                 "artist" :"Ikka, Neha Kakkar & Jaz Dhami",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Re (2016)",
+                 "length" :"00:03:45",
+                 "size"   :"5.19MB",
+                 "year"   :"2016"  
+                },
+                {
+                 "index":"5",
+                 "name":"05 - Sanam Re - Kya Tujhe Ab Ye Dil Bataye [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamRe/KyaTujhe.mp3",
+                 "artist" :"Falak Shabir",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Re (2016)",
+                 "length" :"00:05:36",
+                 "size"   :"7.08MB",
+                 "year"   :"2016"  
+                },
+                {
+                 "index":"6",
+                 "name":"06 - Sanam Re - Tere Liye [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamRe/TereLiye.mp3",
+                 "artist" :"Mithoon & Ankit Tiwari",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Re (2016)",
+                 "length" :"00:07:07",
+                 "size"   :"8.99MB",
+                 "year"   :"2016"  
+                },
+                {
+                 "index":"7",
+                 "name":"07 - Sanam Re - Tum Bin [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamRe/TumBin.mp3",
+                 "artist" :"Shreya Ghoshal",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Re (2016)",
+                 "length" :"00:04:44",
+                 "size"   :"5.99MB",
+                 "year"   :"2016"  
+                },
+                {
+                 "index":"8",
+                 "name":"08 - Sanam Re - Chhote Chhote Tamashe [DJMaza.Info]",
+                 "url":"Musics/Hindi/SanamRe/CholteCholte.mp3",
+                 "artist" :"Shaan",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Sanam Re (2016)",
+                 "length" :"00:03:45",
+                 "size"   :"4.99MB",
+                 "year"   :"2016"  
+                } 
+              ],
+            
+   "BBhaijan":[
+                {
+                 "index":"1",
+                 "name":"01 - BB - Tu Jo Mila [DJMaza.Info]",
+                 "url":"Musics/Hindi/BBhaijan/Tujomila.mp3",
+                 "artist" :"Papon",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Bajrangi Bhaijaan (2015)",
+                 "length" :"00:04:17",
+                 "size"   :"5.41MB",
+                 "year"   :"2015"
+                  
+               },
+               {
+                 "index":"2",
+                 "name":"02 - BB - Zindagi (Reprise) [DJMaza.Info]",
+                 "url":"Musics/Hindi/BBhaijan/zindagi.mp3",
+                 "artist" :"Rahat Fateh Ali Khan & Rekha Bhardwaj",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Bajrangi Bhaijaan (2015)",
+                 "length" :"00:04:22",
+                 "size"   :"5.14MB",
+                 "year"   :"2015"
+                  
+               },
+               {
+                 "index":"3",
+                 "name":"03 - BB - Bhar Do Jholi Meri (Reprise) [DJMaza.Info]",
+                 "url":"Musics/Hindi/BBhaijan/BhardoJholi.mp3",
+                 "artist" :"Imran Aziz Mian",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Bajrangi Bhaijaan (2015)",
+                 "length" :"00:08:04",
+                 "size"   :"10.6MB",
+                 "year"   :"2015"
+                  
+               },
+               {
+                 "index":"4",
+                 "name":"04 - BB - Chicken Song [DJMaza.Info]",
+                 "url":"Musics/Hindi/BBhaijan/ChickenSong.mp3",
+                 "artist" :"Mohit Chauhan, Pritam",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Bajrangi Bhaijaan (2015)",
+                 "length" :"00:05:43",
+                 "size"   :"7.69MB",
+                 "year"   :"2015"
+                  
+               }
+              ],
+   
+   "Dilwale":[
+               {
+                 "index":"1",
+                 "name":"01 - Dilwale - Gerua [DJMaza.Info]",
+                 "url":"Musics/Hindi/Dilwale/Gerua.mp3",
+                 "artist" :"Arijit Singh & Antara Mitra",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Dilwale",
+                 "length" :"00:05:45",
+                 "size"   :"7.01MB",
+                 "year"   :"2015"
+                  
+               },
+               { 
+                 "index":"2",
+                 "name":"02 - Dilwale - Janam Janam [DJMaza.Info]",
+                 "url":"Musics/Hindi/Dilwale/JanamJanam.mp3",
+                 "artist" :"Arijit Singh & Antara Mitra",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Dilwale",
+                 "length" :"00:03:57",
+                 "size"   :"4.86MB",
+                 "year"   :"2015"
+               },
+               { 
+                 "index":"3",
+                 "name":"03 - Dilwale - Tukur Tukur [DJMaza.Info]",
+                 "url":"Musics/Hindi/Dilwale/TukurTukur.mp3",
+                 "artist" :"Arijit Singh",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Dilwale",
+                 "length" :"00:04:33",
+                 "size"   :"5.76MB",
+                 "year"   :"2015"
+               },
+               { 
+                 "index":"4",
+                 "name":"04 - Dilwale - Premika [DJMaza.Info]",
+                 "url":"Musics/Hindi/Dilwale/Premika.mp3",
+                 "artist" :"Benny Dayal & Kanika Kapoor",
+                 "gener"  :"Bollywood Music",
+                 "album"  :"Dilwale",
+                 "length" :"00:03:45",
+                 "size"   :"4.80MB",
+                 "year"   :"2015"
+               }
+             ],   
+             
+   "BENGALI MUSIC ALBUMS":"This is the Portion for Bengali Music Albums",  
+           
+   "ANTHEEN":[
+               {
+                 "index":"1",
+                 "name":"01. Muthor Rumal",
+                 "url":"Musics/Bengali/Antaheen/MuthorRumal.mp3",
+                 "artist" :"(Bengali-Mp3.Com)",
+                 "gener"  :"Other",
+                 "album"  :"Antoheen",
+                 "length" :"00:05:52",
+                 "size"   :"5.41MB",
+                 "year"   :"2009"
+               },
+               {
+                 "index":"2",
+                 "name":"02. Pherari Mon",
+                 "url":"Musics/Bengali/Antaheen/PherariMon.mp3",
+                 "artist" :"(Bengali-Mp3.Com)",
+                 "gener"  :"Other",
+                 "album"  :"Antoheen",
+                 "length" :"00:06:38",
+                 "size"   :"6.11MB",
+                 "year"   :"2009"
+               },
+               {
+                 "index":"3",
+                 "name":"03. Shokal Ashe Na",
+                 "url":"Musics/Bengali/Antaheen/ShokalAsheNa.mp3",
+                 "artist" :"(Bengali-Mp3.Com)",
+                 "gener"  :"Other",
+                 "album"  :"Antoheen",
+                 "length" :"00:03:19",
+                 "size"   :"3.08MB",
+                 "year"   :"2009"
+               },
+               {
+                 "index":"4",
+                 "name":"04. Jao Pakhi",
+                 "url":"Musics/Bengali/Antaheen/JaoPakhi.mp3",
+                 "artist" :"(Bengali-Mp3.Com)",
+                 "gener"  :"Other",
+                 "album"  :"Antoheen",
+                 "length" :"00:05:13",
+                 "size"   :"4.81MB",
+                 "year"   :"2009"
+               },
+               {
+                 "index":"5",
+                 "name":"05. Bhindeshi Tara",
+                 "url":"Musics/Bengali/Antaheen/BhindeshiTara.mp3",
+                 "artist" :"(Bengali-Mp3.Com)",
+                 "gener"  :"Other",
+                 "album"  :"Antoheen",
+                 "length" :"00:05:08",
+                 "size"   :"4.74MB",
+                 "year"   :"2009"
+               },
+               {
+                 "index":"6",
+                 "name":"06. Antaheen",
+                 "url":"Musics/Bengali/Antaheen/Antaheen.mp3",
+                 "artist" :"(Bengali-Mp3.Com)",
+                 "gener"  :"Other",
+                 "album"  :"Antoheen",
+                 "length" :"00:08:31",
+                 "size"   :"7.83MB",
+                 "year"   :"2009"
+               }
+             ],
+  "RMILANTI":[
+               {
+                 "index":"1",
+                 "name":"01. Ektu Poth Tumi Esho",
+                 "url":"Musics/Bengali/RangMilanti/EktuPothTumiEsho.mp3",
+                 "artist" :"Neel Dutta",
+                 "gener"  :"Other",
+                 "album"  :"Rang Milanti ",
+                 "length" :"00:04:00",
+                 "size"   :"4.39MB",
+                 "year"   :"2011"
+               },
+               {
+                 "index":"2",
+                 "name":"02. Rang Milanti",
+                 "url":"Musics/Bengali/RangMilanti/RangMilanti.mp3",
+                 "artist" :"Chandrabindoo",
+                 "gener"  :"Other",
+                 "album"  :"Rang Milanti ",
+                 "length" :"00:04:15",
+                 "size"   :"4.62MB",
+                 "year"   :"2011"
+               },
+               {
+                 "index":"3",
+                 "name":"03. Saiyaan Jab Gaye Pardes (Female)",
+                 "url":"Musics/Bengali/RangMilanti/SaiyaanJabGayePardes.mp3",
+                 "artist" :"Usri Banerjee",
+                 "gener"  :"Other",
+                 "album"  :"Rang Milanti ",
+                 "length" :"00:04:23",
+                 "size"   :"4.74MB",
+                 "year"   :"2011"
+               },
+               {
+                 "index":"4",
+                 "name":"04. Sobe Phota Kuri",
+                 "url":"Musics/Bengali/RangMilanti/SobePhotaKuri.mp3",
+                 "artist" :"Aneek Dhar & Emon Chatterjee",
+                 "gener"  :"Other",
+                 "album"  :"Rang Milanti ",
+                 "length" :"00:04:14",
+                 "size"   :"4.60MB",
+                 "year"   :"2011"
+               },
+               {
+                 "index":"5",
+                 "name":"05. Tai Shoi",
+                 "url":"Musics/Bengali/RangMilanti/TaiShoi.mp3",
+                 "artist" :"Anupam Roy",
+                 "gener"  :"Other",
+                 "album"  :"Rang Milanti ",
+                 "length" :"00:05:09",
+                 "size"   :"5.44MB",
+                 "year"   :"2011"
+               }
+             ],
+             
+    "HWBDOL":[
+               {
+                 "index":"1",
+                 "name":"01. Ghore Pherar Gaan",
+                 "url":"Musics/Bengali/HawaBodol/GhorePherarGaan.mp3",
+                 "artist" :"Vishal Dadlani",
+                 "gener"  :"Other",
+                 "album"  :"Hawa Bodol (2013)",
+                 "length" :"00:03:52",
+                 "size"   :"3.60MB",
+                 "year"   :"2013"
+               },
+               {
+                 "index":"2",
+                 "name":"02. Din Khon Mapa Ache",
+                 "url":"Musics/Bengali/HawaBodol/DinKhonMapaAche.mp3",
+                 "artist" :"Arijit Singh",
+                 "gener"  :"Other",
+                 "album"  :"Hawa Bodol (2013)",
+                 "length" :"00:05:32",
+                 "size"   :"5.13MB",
+                 "year"   :"2013"
+               },
+               {
+                 "index":"3",
+                 "name":"03. Bhoy Dekhas Na (Male)",
+                 "url":"Musics/Bengali/HawaBodol/BhoyDekhasNa.mp3",
+                 "artist" :"Arijit Singh",
+                 "gener"  :"Other",
+                 "album"  :"Hawa Bodol (2013)",
+                 "length" :"00:06:32",
+                 "size"   :"6.04MB",
+                 "year"   :"2013"
+               },
+               {
+                 "index":"4",
+                 "name":"04. Mone Porle",
+                 "url":"Musics/Bengali/HawaBodol/MonePorle.mp3",
+                 "artist" :"Arijit Singh",
+                 "gener"  :"Other",
+                 "album"  :"Hawa Bodol (2013)",
+                 "length" :"00:06:12",
+                 "size"   :"5.74MB",
+                 "year"   :"2013"
+               },  
+               {
+                 "index":"5",
+                 "name":"05. Mor Bhabonare (Duet)",
+                 "url":"Musics/Bengali/HawaBodol/MorBhabonare.mp3",
+                 "artist" :"Saptarshi Mukherjee And Sahana",
+                 "gener"  :"Other",
+                 "album"  :"Hawa Bodol (2013)",
+                 "length" :"00:04:07",
+                 "size"   :"3.84MB",
+                 "year"   :"2013"
+               }
+             ],
+    "JDHBE": [
+               {
+                 "index":"1",
+                 "name":"01. Jaani-Dekha-Hobe-(Male)_(webmusic.in)",
+                 "url":"Musics/Bengali/JaniDekhaHobe/JaaniDekhaHobe.mp3",
+                 "artist" :"Anupam Roy",
+                 "gener"  :"Other",
+                 "album"  :"Jaani Dekha Hobe (2011)",
+                 "length" :"00:06:08",
+                 "size"   :"5.66MB",
+                 "year"   :"2011"
+               },
+               {
+                 "index":"2",
+                 "name":"02. Neel Megh Mashe - [Bengali-Mp3.Net]",
+                 "url":"Musics/Bengali/JaniDekhaHobe/NeelMeghMashe.mp3",
+                 "artist" :"Anupam Roy",
+                 "gener"  :"Other",
+                 "album"  :"Jaani Dekha Hobe (2011)",
+                 "length" :"00:04:16",
+                 "size"   :"4.12MB",
+                 "year"   :"2011"
+               },
+                {
+                 "index":"3",
+                 "name":"03. Thik Thakish - [Bengali-Mp3.Net]",
+                 "url":"Musics/Bengali/JaniDekhaHobe/ThikThakish.mp3",
+                 "artist" :"Anupam Roy & Monali Thakur",
+                 "gener"  :"Other",
+                 "album"  :"Jaani Dekha Hobe (2011)",
+                 "length" :"00:04:44",
+                 "size"   :"4.55MB",
+                 "year"   :"2011"
+               }
+             ],
+    "LORAI": [
+               {
+                 "index":"1",
+                 "name":"01. Chhoto-Ekta-Bhor_(webmusic.in)",
+                 "url":"Musics/Bengali/Lorai/ChhotoEktaBhor.mp3",
+                 "artist" :"Mohan Kannan",
+                 "gener"  :"Other",
+                 "album"  :"Lorai (Original Motion Picture Soundtrack)",
+                 "length" :"00:05:44",
+                 "size"   :"7.07MB",
+                 "year"   :"2014"
+               },
+               {
+                 "index":"2",
+                 "name":"02. Jekhane-Shob-Sesh_(webmusic.in)",
+                 "url":"Musics/Bengali/Lorai/JekhaneShobSesh.mp3",
+                 "artist" :"Timir",
+                 "gener"  :"Other",
+                 "album"  :"Lorai (Original Motion Picture Soundtrack)",
+                 "length" :"00:05:28",
+                 "size"   :"7.69MB",
+                 "year"   :"2014"
+               },
+               {
+                 "index":"3",
+                 "name":"03. Jonaki_(webmusic.in)",
+                 "url":"Musics/Bengali/Lorai/Jonaki.mp3",
+                 "artist" :"Unknown",
+                 "gener"  :"Other",
+                 "album"  :"Lorai (Original Motion Picture Soundtrack)",
+                 "length" :"00:04:40",
+                 "size"   :"5.68MB",
+                 "year"   :"2014"
+               },
+               {
+                 "index":"4",
+                 "name":"04. Kichhu-Kichhu-Kotha_(webmusic.in)",
+                 "url":"Musics/Bengali/Lorai/KichhuKichhuKotha.mp3",
+                 "artist" :"Arijit Singh",
+                 "gener"  :"Other",
+                 "album"  :"Lorai (Original Motion Picture Soundtrack)",
+                 "length" :"00:05:43",
+                 "size"   :"4.31MB",
+                 "year"   :"2014"
+               },
+               {
+                 "index":"5",
+                 "name":"05. Mayar-Jeebon-Jonaki_(webmusic.in)",
+                 "url":"Musics/Bengali/Lorai/MayarJeebonJonaki.mp3",
+                 "artist" :"Arijit Singh",
+                 "gener"  :"Other",
+                 "album"  :"Lorai (Original Motion Picture Soundtrack)",
+                 "length" :"00:05:53",
+                 "size"   :"7.19MB",
+                 "year"   :"2014"
+               }
+             ],
+             
+    "ENGLISH MUSIC ALBUMS":"This is the Portion for English Music Albums",
+      "ENRQ":[
+               {
+                 "index":"1",
+                 "name":"01. Enrique Iglesias - Why Not Me ",
+                 "url":"Musics/English/WhyNotMe.mp3",
+                 "artist" :"Enrique Iglesias",
+                 "gener"  :"Other",
+                 "album"  :"Unknown",
+                 "length" :"00:02:30",
+                 "size"   :"3.64MB",
+                 "year"   :"2013"
+               }
+             ],
+   "SHAKIRA":[
+               {
+                 "index":"1",
+                 "name":"01. Shakira - Gypsy",
+                 "url":"Musics/English/Gypsy.mp3",
+                 "artist" :"Shakira",
+                 "gener"  :"Other",
+                 "album"  :"Unknown",
+                 "length" :"00:03:38",
+                 "size"   :"3.33MB",
+                 "year"   :"2013"
+               }
+             ],
+   "PITBULL":[
+               {
+                 "index":"1",
+                 "name":"01. Pitbull - Rain Over Me ft. Marc Anthony",
+                 "url":"Musics/English/RainOverMe.mp3",
+                 "artist" :"Pitbull",
+                 "gener"  :"Other",
+                 "album"  :"Unknown",
+                 "length" :"00:03:53",
+                 "size"   :"5.88MB",
+                 "year"   :"2013"
+               }
+             ]                     
+}

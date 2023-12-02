@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/>
+
+		<script src="https://sapui5.hana.ondemand.com/sdk/resources/sap-ui-core.js"
+				id="sap-ui-bootstrap"
+				data-sap-ui-libs="sap.m, sap.ui.commons, sap.ui.ux3, sap.ui.table,sap.me"
+				data-sap-ui-theme="sap_bluecrystal">
+		</script>
+		<!-- only load the mobile lib "sap.m" and the "sap_bluecrystal" theme -->
+		
+
+
+
+		<script>
+				sap.ui.localResources("splitapp");
+				//var app = new sap.m.App({initialPage:"idsplitApp1"});
+			//	var MasterPage = sap.ui.view({id:"idsplitApp1", viewName:"splitapp.splitApp", type:sap.ui.core.mvc.ViewType.JS});
+				
+				var oSplitapp = new sap.m.SplitApp("mySplitapp", {});
+				
+				oIntropage = sap.ui.view({
+					id:"introId",
+					viewName:"splitapp.splitApp",
+					type:sap.ui.core.mvc.ViewType.JS
+				});
+				
+				
+				oMasterpage = sap.ui.view({
+					id:"masterId",
+					viewName:"splitapp.Master",
+					type:sap.ui.core.mvc.ViewType.JS
+				});
+				
+				oMusicpage = sap.ui.view({
+					id:"MusicpageId",
+					viewName:"splitapp.Musics",
+					type:sap.ui.core.mvc.ViewType.JS
+				});
+				oMusicpage_Detail = sap.ui.view({
+					id:"musicDetId",
+					viewName:"splitapp.DetailMusics",
+					type:sap.ui.core.mvc.ViewType.JS
+				});
+				oPicturepage = sap.ui.view({
+					id:"PicturespageId",
+					viewName:"splitapp.Pictures",
+					type:sap.ui.core.mvc.ViewType.JS
+				});
+				oVideopage = sap.ui.view({
+					id:"VideospageId",
+					viewName:"splitapp.Videos",
+					type:sap.ui.core.mvc.ViewType.JS
+				});
+				oplayMusic = sap.ui.view({
+					id:"playMusicId",
+					viewName:"splitapp.playMusic",
+					type:sap.ui.core.mvc.ViewType.JS
+				});
+				oMiscPage = sap.ui.view({
+					id:"MiscPageId",
+					viewName:"splitapp.Miscellaneous",
+					type:sap.ui.core.mvc.ViewType.JS
+				});
+				
+				
+				oSplitapp.addDetailPage(oIntropage).addMasterPage(oMasterpage);
+				oSplitapp.addDetailPage(oMusicpage).addDetailPage(oPicturepage).addDetailPage(oVideopage);
+				oSplitapp.addDetailPage(oMusicpage_Detail).addDetailPage(oplayMusic).addDetailPage(oMiscPage);
+				oSplitapp.setInitialDetail(oIntropage);
+				oSplitapp.setInitialMaster(oMasterpage);
+				
+				oSplitapp.setMode("ShowHideMode");
+				
+				//app.addPage(page);
+				oSplitapp.placeAt("content");
+		</script>
+
+	</head>
+	<body class="sapUiBody" role="application">
+		<div id="content"></div>
+	</body>
+</html>
